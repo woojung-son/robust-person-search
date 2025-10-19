@@ -40,3 +40,16 @@ bash scripts/create_cuhk_sysu_c.sh
 # Generate PRW-C
 bash scripts/create_prw_c.sh
 ```
+
+## 🔗 Citation
+If you find this code useful for your research, please cite our paper:
+```bibtex
+@InProceedings{Son_2025_ICCV,
+    author    = {Son, Woojung and Cho, Yoonki and An, Guoyuan and Lee, Chanmi and Yoon, Sung-Eui},
+    title     = {Towards Robustness of Person Search against Corruptions},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {23408-23418}
+}
+```
